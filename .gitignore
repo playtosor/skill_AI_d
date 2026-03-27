@@ -28,6 +28,7 @@ CDC_m_AI_l_help.md
 commit.bat
 update_github.bat
 push_github.bat
+*.bat
 docs/
 scripts/
 
